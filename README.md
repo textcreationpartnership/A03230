@@ -35,8 +35,18 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Londini speculum: or, Londons mirror exprest in sundry triumphs, pageants, and showes, at the initia
+
+1. To the Right Honourable Richard Fenn, Lord Maior of this Renowned Metropolis LONDON.
+
 #####Body#####
+
+1. Londini Speculum, OR, Londons Mirrour.
+
+    _ The third Show.
+
+    _ The fourth Show.
+
+    _ The fifth show, cald Londons Mirrour.
 
 **Types of content**
 
